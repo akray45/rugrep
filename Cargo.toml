@@ -1,10 +1,10 @@
 [package]
-name = "rugrep"
+name = "rurep"
 version = "0.1.0"
 edition = "2021"
 authors = ["Akshay Kumar Ray <akprpa@gmail.com>"]
 description = "A simple grep-like tool written in Rust"
-repository = "https://github.com/akray45/rugrep"
+repository = "https://github.com/akray45/rurep"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
