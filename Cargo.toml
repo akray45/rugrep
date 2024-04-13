@@ -1,0 +1,16 @@
+[package]
+name = "rugrep"
+version = "0.1.0"
+edition = "2021"
+authors = ["Akshay Kumar Ray <akprpa@gmail.com>"]
+description = "A simple grep-like tool written in Rust"
+repository = "https://github.com/akray45/rugrep"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[build]
+target-dir = "target"
+
+[dependencies]
+clap = "3.0"
+colored = "2.1.0"
